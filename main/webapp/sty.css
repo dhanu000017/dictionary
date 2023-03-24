@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+#bo{
+	height: 1072px;
+	width: 100%;
+	background: linear-gradient(0deg, rgba(19,59,105,1) 0%, rgba(6,20,36,1) 100%);
+}
+
+#cen{
+	height: 75%;
+width: 75%;
+border: 2px solid black;
+position: absolute;
+margin-top: 166px;
+margin-left: 220px;
+border-radius: 15px;
+background: white;
+overflow: scroll;
+}
+
+
+#input1{
+	margin-top: 5%;
+height: 50px;
+width: 50%;
+margin-left: 23%;
+border-radius: 15px;
+}
+
+#Submit{
+	height: 50px;
+width: 8%;
+}
+
+#para{
+	width: 70%;
+margin-left: 15%;
+margin-top: 4%;
+line-height: 3;
+}
